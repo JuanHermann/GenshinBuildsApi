@@ -1,0 +1,6 @@
+C:\Users\Juan\Desktop\Projetos\GenshinBuildsApi\obj\Debug\netcoreapp3.1\GenshinBuildsApi.csprojAssemblyReference.cache
+C:\Users\Juan\Desktop\Projetos\GenshinBuildsApi\obj\Debug\netcoreapp3.1\GenshinBuildsApi.AssemblyInfoInputs.cache
+C:\Users\Juan\Desktop\Projetos\GenshinBuildsApi\obj\Debug\netcoreapp3.1\GenshinBuildsApi.AssemblyInfo.cs
+C:\Users\Juan\Desktop\Projetos\GenshinBuildsApi\obj\Debug\netcoreapp3.1\GenshinBuildsApi.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\Projetos\GenshinBuildsApi\obj\Debug\netcoreapp3.1\GenshinBuildsApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Juan\Desktop\Projetos\GenshinBuildsApi\obj\Debug\netcoreapp3.1\GenshinBuildsApi.MvcApplicationPartsAssemblyInfo.cache
